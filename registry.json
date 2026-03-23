@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "skills": {
+    "hello-world": {
+      "repo": "https://github.com/okandemirel/Strada.Brain",
+      "description": "A test skill that echoes messages",
+      "tags": ["test", "example"],
+      "version": "1.0.0",
+      "author": "strada"
+    },
+    "github-utils": {
+      "repo": "https://github.com/okandemirel/Strada.Brain",
+      "description": "GitHub utilities — check PR status, list issues, view repo info",
+      "tags": ["developer", "github", "git"],
+      "version": "1.0.0",
+      "author": "strada"
+    },
+    "unity-helpers": {
+      "repo": "https://github.com/okandemirel/Strada.Brain",
+      "description": "Unity project utilities — find scripts, list scenes, check project structure",
+      "tags": ["unity", "gamedev", "csharp"],
+      "version": "1.0.0",
+      "author": "strada"
+    }
+  }
+}
