@@ -35,6 +35,48 @@
       "tags": ["file", "analysis", "search"],
       "version": "1.0.0",
       "author": "strada"
+    },
+    "system-info": {
+      "repo": "https://github.com/okandemirel/Strada.Brain",
+      "description": "System information — uptime, CPU/memory/disk resources, network interfaces",
+      "tags": ["system", "monitoring", "utility"],
+      "version": "1.0.0",
+      "author": "strada"
+    },
+    "json-utils": {
+      "repo": "https://github.com/okandemirel/Strada.Brain",
+      "description": "JSON utilities — format, query with dot-path, compare/diff objects",
+      "tags": ["json", "developer", "utility"],
+      "version": "1.0.0",
+      "author": "strada"
+    },
+    "notion": {
+      "repo": "https://github.com/okandemirel/strada-skill-notion",
+      "description": "Notion integration — search pages, read content, create pages",
+      "tags": ["notion", "productivity", "api"],
+      "version": "1.0.0",
+      "author": "okandemirel"
+    },
+    "google-calendar": {
+      "repo": "https://github.com/okandemirel/strada-skill-google-calendar",
+      "description": "Google Calendar integration — list events, create events, today's schedule",
+      "tags": ["calendar", "google", "productivity"],
+      "version": "1.0.0",
+      "author": "okandemirel"
+    },
+    "spotify": {
+      "repo": "https://github.com/okandemirel/strada-skill-spotify",
+      "description": "Spotify integration — now playing, search tracks, control playback",
+      "tags": ["spotify", "music", "entertainment"],
+      "version": "1.0.0",
+      "author": "okandemirel"
+    },
+    "home-assistant": {
+      "repo": "https://github.com/okandemirel/strada-skill-home-assistant",
+      "description": "Home Assistant integration — entity states, toggle devices, call services",
+      "tags": ["home-assistant", "iot", "smart-home"],
+      "version": "1.0.0",
+      "author": "okandemirel"
     }
   }
 }
