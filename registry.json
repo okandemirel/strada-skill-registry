@@ -21,6 +21,20 @@
       "tags": ["unity", "gamedev", "csharp"],
       "version": "1.0.0",
       "author": "strada"
+    },
+    "web-search": {
+      "repo": "https://github.com/okandemirel/Strada.Brain",
+      "description": "Web utilities — fetch URL content, search the web via DuckDuckGo",
+      "tags": ["web", "search", "fetch"],
+      "version": "1.0.0",
+      "author": "strada"
+    },
+    "file-utils": {
+      "repo": "https://github.com/okandemirel/Strada.Brain",
+      "description": "File utilities — word count, line count, find large files, regex search",
+      "tags": ["file", "analysis", "search"],
+      "version": "1.0.0",
+      "author": "strada"
     }
   }
 }
